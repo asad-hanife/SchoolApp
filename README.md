@@ -1,0 +1,2 @@
+# SchoolApp
+Educational Application
